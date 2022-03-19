@@ -1,2 +1,3 @@
-# kakashi
-Practice question of DSA
+
+Practice question of DSA and Competative coding
+
